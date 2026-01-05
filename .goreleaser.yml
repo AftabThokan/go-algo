@@ -7,10 +7,5 @@ builds:
     mod_timestamp: '{{ .CommitTimestamp }}'
     flags:
       - -trimpath
-    ignore:
-      - goos: freebsd
-      - goos: windows
-      - goos: linux
-      - goos: darwin
 changelog:
   use: github
