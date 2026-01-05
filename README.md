@@ -4,7 +4,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/medunes/go-algo.svg)](https://pkg.go.dev/github.com/medunes/go-algo)
 [![Tests](https://github.com/medunes/go-algo/actions/workflows/tests.yml/badge.svg)](https://github.com/medunes/go-algo/actions/workflows/tests.yml)
 
-![image](./patterns/algorithms.png)
+![image](./algorithms.png)
 
 A focused collection of algorithm patterns implemented in **idiomatic Go**, designed for **FAANG-style interviews** and real-world intuition.  
 Each folder is self-contained and includes:
